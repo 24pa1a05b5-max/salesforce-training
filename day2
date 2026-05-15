@@ -1,0 +1,22 @@
+# Day 2: Salesforce Platform Basics
+
+## 1. What is the Salesforce Platform?
+(Explain it in your own words based on the videos/modules)
+
+## 2. Core Definitions
+* [cite_start]**App:** (Your definition) [cite: 45]
+* [cite_start]**Object:** (Your definition) [cite: 46]
+* [cite_start]**Tab:** (Your definition) [cite: 47]
+
+## 3. Configuration vs. Coding
+* [cite_start]**Configuration (No-Code):** Use when [cite: 50][cite_start]... (Example 1, Example 2) [cite: 52]
+* [cite_start]**Coding (Apex):** Use when [cite: 51][cite_start]... (Example 1, Example 2) [cite: 52]
+
+## 4. System Design: [Insert Your System Name, e.g., Hospital]
+* [cite_start]**App Name:** [cite: 56]
+* [cite_start]**Objects inside:** [cite: 57]
+* [cite_start]**User Interaction:** [cite: 58]
+
+## 5. Trailhead Completion
+![Trailhead Badge 1](./screenshots/badge1.png)
+![Trailhead Badge 2](./screenshots/badge2.png)
